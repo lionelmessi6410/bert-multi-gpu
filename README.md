@@ -67,4 +67,4 @@ num_train_steps = num_train_steps * iterations_per_loop
 Data preprocessing is done in this file. The default data type is ```tfrecord```, most of this code is same as the official one.
 
 ### 3. ```bert-multi-gpu.ipynb```
-Feel free to use ```Google Colab``` or ```Jupyter Notebook``` with this file. 
+Feel free to use ```Google Colab``` or ```Jupyter Notebook``` with this file. In addition, more details about inference part can be found here as well.
